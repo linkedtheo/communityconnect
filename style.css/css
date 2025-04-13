@@ -1,0 +1,30 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f4f8;
+}
+
+header {
+  background: #005792;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  border: none;
+  background: #00bbf0;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hero {
+  padding: 50px;
+  text-align: center;
+}

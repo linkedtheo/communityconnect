@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Community Connect</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Community Connect</h1>
+    <nav>
+      <button>Find Help</button>
+      <button>Volunteer</button>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Connecting people in need with real-time support</h2>
+      <button>Get Started</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
